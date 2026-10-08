@@ -1,0 +1,3 @@
+fpdf2>=2.8
+Pillow>=11
+tkinterdnd2>=0.6
